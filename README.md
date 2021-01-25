@@ -12,3 +12,4 @@ Norman Lippok<sup>1,2</sup>, Brett Bouma<sup>1,2,3</sup> <br>
 
 ### Results
 * No clear differences were noticeable between ctrl and suspended nanoparticle images.
+* Depolarization did not show differences between ctrl and suspended nanoparticle samples. Depolarization is expected to show contrast for nanorods (not spheres) with a resonance wavelength equal or close to the OCT light source center wavelength.
