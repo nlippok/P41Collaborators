@@ -10,5 +10,5 @@ Norman Lippok<sup>1,2</sup>, Brett Bouma<sup>1,2,3</sup> <br>
 * Acquisitions that showed strong horizontal line artefacts were bandpass filtered to improve image quality. Line artefacts can arise due to multiple reflections from cover slip, petri dish, etc. 
 
 
-## Results
+### Results
 * No immediate differences are noticeable between ctrl and suspended nanoparticles.
