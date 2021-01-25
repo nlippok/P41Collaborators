@@ -6,4 +6,4 @@ Norman Lippok<sup>1,2</sup>, Brett Bouma<sup>1,2,3</sup> <br>
 <sup>3</sup>Institute for Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA </sub>
 </i> 
 
-* Please find above image stacks corresponding to CTRL, ZnO and Fe3O4 - zebrafish brain samples.
+* Please find above OCT image stacks corresponding to CTRL, ZnO and Fe3O4 - zebrafish brain samples.
