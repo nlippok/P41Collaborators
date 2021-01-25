@@ -11,4 +11,4 @@ Norman Lippok<sup>1,2</sup>, Brett Bouma<sup>1,2,3</sup> <br>
 
 
 ### Results
-* No immediate differences are noticeable between ctrl and suspended nanoparticles.
+* No clear differences were noticeable between ctrl and suspended nanoparticle images.
