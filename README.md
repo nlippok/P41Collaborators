@@ -8,7 +8,7 @@ Norman Lippok<sup>1,2</sup>, Brett Bouma<sup>1,2,3</sup> <br>
 
 * Find above OCT image stacks corresponding to CTRL, ZnO and Fe3O4 - zebrafish brain samples.
 * Acquisitions that showed strong horizontal line artefacts were bandpass filtered to improve image quality. Line artefacts can arise due to multiple reflections from cover slip, petri dish, etc. 
-* x_Microscope.png shows a microscope image of the sample for reference and correct orientation. 
+* x_Microscope.png shows a microscope image of each sample for reference and correct orientation. 
 
 
 ### Results
