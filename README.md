@@ -20,6 +20,6 @@ Norman Lippok<sup>1,2</sup>, Brett Bouma<sup>1,2,3</sup> <br>
 * Find above real time acquisitions (25 frames per second) of the different suspensions. The movie frame rate was slowed down by a factor of two. 
 * Suspensions were sonicated for at least 10 min before imaging.
 * All suspensions were recorded for 4 seconds (100 frames) at approximately 0 minutes, 2 minutes and 5 minutes after sonication. 
-* A 5x scanning lens was used for imaging.
+* A 5x scanning lens was used for imaging. The depth of field of the 10x was too short for observing groups of particles.
 * Suspensions were mounted at ~ 20 deg to avoid specular reflections from the glass tubes. 
 * Suspension 206(3) opened during sonication and was accidentally destroyed.
